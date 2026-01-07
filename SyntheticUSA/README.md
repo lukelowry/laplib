@@ -4,4 +4,3 @@ Data provided by [TAMU Electric Grid Repository](https://electricgrids.engr.tamu
 
 ### Todo
 - Generate the `edges.txt` for branch admittance, length, and phase delay
-- Generate the `signals.txt` with longitude and latitude
