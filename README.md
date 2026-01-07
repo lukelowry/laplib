@@ -1,7 +1,7 @@
 # laplib
 Repository of Graph Laplacians
 
-Note: The data is usable but not coherent in format as of Jan 2026.
+Note: The data is usable but not consistently formatted as of Jan 2026.
 
 | Dataset | Vertices | Signals | Edges| Signals |
 | :--- | :--- | :--- | :--- | :--- |
@@ -11,7 +11,7 @@ Note: The data is usable but not coherent in format as of Jan 2026.
 | [SyntheticEast](./SyntheticEast) | 70000| `long`, `lat` | | `length`, `admitt` |
 | [SyntheticEastWest](./SyntheticEastWest) | 78000| `long`, `lat` | |`length`, `admitt`|
 | [SyntheticUSA](./SyntheticUSA) | 82000 | `long`, `lat` || `length`, `admitt`|
-| [WECC](./WECC) | 240 | | X |`length`, `admitt`|
+| [WECC](./WECC) | 240 | |  |`length`, `admitt`|
 ## Subfolder Structure
 
 Each dataset subfolder should adhere to the following structure:
