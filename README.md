@@ -5,7 +5,7 @@ Note: The data is usable but not coherent in format as of Jan 2026.
 
 | Dataset | Vertices | Signals | Edges| Signals |
 | :--- | :--- | :--- | :--- | :--- |
-| [StanfardBunny](./StanfardBunny) | 104288|  `x`,`y`,`z`| 35947|   |
+| [StanfardBunny](./StanfardBunny) | 35947|  `x`,`y`,`z`| 104288|   |
 | [SyntheticHawaii](./SyntheticHawaii) | 37| `long`, `lat`|| `length`, `admitt`
 | [SyntheticTexas](./SyntheticTexas) | 2000| `long`, `lat` | |`length`, `admitt`|
 | [SyntheticEast](./SyntheticEast) | 70000| `long`, `lat` | | `length`, `admitt` |
