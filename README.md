@@ -1,17 +1,17 @@
-# laplib
-Repository of Graph Laplacians
+# Laplacian Library
+A Repository of Graph Laplacians, originally developed for Graph Signal Processing.
 
-Note: The data is usable but not coherent in format as of Jan 2026.
+Note: The data is usable but not consistently formatted as of Jan 2026.
 
 | Dataset | Vertices | Signals | Edges| Signals |
 | :--- | :--- | :--- | :--- | :--- |
-| [StanfardBunny](./StanfardBunny) | 104288|  `x`,`y`,`z`| 35947|   |
+| [StanfardBunny](./StanfardBunny) | 35947|  `x`,`y`,`z`| 104288|   |
 | [SyntheticHawaii](./SyntheticHawaii) | 37| `long`, `lat`|| `length`, `admitt`
 | [SyntheticTexas](./SyntheticTexas) | 2000| `long`, `lat` | |`length`, `admitt`|
 | [SyntheticEast](./SyntheticEast) | 70000| `long`, `lat` | | `length`, `admitt` |
 | [SyntheticEastWest](./SyntheticEastWest) | 78000| `long`, `lat` | |`length`, `admitt`|
 | [SyntheticUSA](./SyntheticUSA) | 82000 | `long`, `lat` || `length`, `admitt`|
-| [WECC](./WECC) | 240 | | X |`length`, `admitt`|
+| [WECC](./WECC) | 240 | |  |`length`, `admitt`|
 ## Subfolder Structure
 
 Each dataset subfolder should adhere to the following structure:
