@@ -1,5 +1,5 @@
-# laplib
-Repository of Graph Laplacians
+# Laplacian Library
+A Repository of Graph Laplacians, originally developed for Graph Signal Processing.
 
 Note: The data is usable but not consistently formatted as of Jan 2026.
 
