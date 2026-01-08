@@ -7,12 +7,12 @@ Note: The synthetic datasets do not yet have dedicated edge files as of 2026.
 | :--- | :--- | :--- | :--- | :--- |
 | [StanfardBunny](./StanfardBunny)          | 35947 |  `x`,`y`,`z`  | 104288|           |
 | [Horse](./Horse)                          | 48485 | `x`,`y`,`z`   | 145449|           |
-| [SyntheticHawaii](./SyntheticHawaii)      | 37    | `long`, `lat` |       |`length`, `admitt`,  `delay`   |
+| [SyntheticHawaii](./SyntheticHawaii)      | 37    | `long`, `lat` |     98|`length`, `admitt`,  `delay`   |
 | [SyntheticTexas](./SyntheticTexas)        | 2000  | `long`, `lat` |       |`length`, `admitt`,  `delay`   |
 | [SyntheticEast](./SyntheticEast)          | 70000 | `long`, `lat` |       |`delay`                        |
-| [SyntheticEastWest](./SyntheticEastWest)  | 78000 | `long`, `lat` |       |`length`, `admitt`,  `delay`   |
-| [SyntheticUSA](./SyntheticUSA)            | 82000 | `long`, `lat` |       |`length`, `admitt`,  `delay`   |
-| [WECC](./WECC)                            | 240   |               |       |`length`, `admitt`, `delay`    |
+| [SyntheticEastWest](./SyntheticEastWest)  | 78000 | `long`, `lat` | 100923|`length`, `admitt`,  `delay`   |
+| [SyntheticUSA](./SyntheticUSA)            | 82000 | `long`, `lat` | 104123|`length`, `admitt`,  `delay`   |
+| [WECC](./WECC)                            | 240   |               |    451|`length`, `admitt`, `delay`    |
 ## Subfolder Structure
 
 Each dataset subfolder should adhere to the following structure:
