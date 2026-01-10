@@ -1,8 +1,6 @@
 # Laplacian Library
 A Repository of Graph Laplacians, originally developed for Graph Signal Processing.
 
-Note: The synthetic datasets do not yet have dedicated edge files as of 2026.
-
 | Dataset | Vertices | Signals | Edges| Signals |
 | :--- | :--- | :--- | :--- | :--- |
 | [StanfardBunny](./StanfardBunny)          | 35947 |  `x`,`y`,`z`  | 104288|           |
